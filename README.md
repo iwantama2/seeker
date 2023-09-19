@@ -1,15 +1,15 @@
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
+<p align="center"><img src="https://i.postimg.cc/MHtyZ2Bd/20230919-120349.jpg"></p>
 
 <p align="center">
-    <a href="https://twitter.com/thewhiteh4t">
+    <a href="https://www.siapngoding.my.id">
       <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
     </a>
     &nbsp;
-    <a href="https://twc1rcle.com/">
+    <a href="https://www.siapngoding.my.id">
       <img src="https://img.shields.io/badge/-THE WHITE CIRCLE-black?logo=&style=for-the-badge">
     </a>
     &nbsp;
-    <a href="https://thewhiteh4t.github.io/">
+    <a href="https://www.siapngoding.my.id">
       <img src="https://img.shields.io/badge/-BLOG-black?logo=dialogflow&style=for-the-badge">
     </a>
 </p>
